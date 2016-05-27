@@ -239,6 +239,7 @@ pil-1.1.7-2.pkg
 pillow-2.1.0-0.pkg
 pixman-0.28.2-0.pkg
 pixman-0.32.6-0.pkg
+pixman-0.34.0-0.pkg
 pkg-config-0.28-1.pkg
 pkg-config-0.29.1-0.pkg
 popt-1.16-1.pkg
@@ -314,6 +315,7 @@ static-libtool-2.4.6-1.pkg
 static-libunistring-0.9.5-0.pkg
 static-neon-0.30.1-1.pkg
 static-pcre-8.37-0.pkg
+static-pixman-0.34.0-0.pkg
 static-readline-6.3-0.pkg
 static-sqlite-3.8.10.2-0.pkg
 static-zlib-1.2.8-0.pkg

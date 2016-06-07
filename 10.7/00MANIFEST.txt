@@ -184,6 +184,7 @@ lua-5.2.3-1.pkg
 lua-5.3.0-0.pkg
 lua-5.3.1-0.pkg
 lua-5.3.2-0.pkg
+lua-5.3.3-0.pkg
 luajit-2.0.4-0.pkg
 lunzip-1.7-0.pkg
 lxml-3.2.3-0.pkg

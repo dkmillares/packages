@@ -80,6 +80,7 @@ fossil-1.26-0.pkg
 fping-3.10-0.pkg
 frotz-2.43-7.pkg
 gawk-4.1.0-1.pkg
+gawk-4.1.3-0.pkg
 gc-7.2f-0.pkg
 gcal-3.6.3-0.pkg
 gdbm-1.11-0.pkg

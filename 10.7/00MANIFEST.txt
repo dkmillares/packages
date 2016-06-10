@@ -54,6 +54,7 @@ cvs-1.11.23-1.pkg
 cython-0.22-0.pkg
 cython-0.23-0.pkg
 dash-0.5.8-0.pkg
+dash-0.5.9-0.pkg
 datamash-1.0.6-0.pkg
 db-6.1.26-0.pkg
 dejagnu-1.5.3-0.pkg

@@ -397,6 +397,7 @@ texinfo-6.1-0.pkg
 thttpd-2.26-0.pkg
 tig-1.2.1-0.pkg
 tig-2.1.1-0.pkg
+tig-2.1.1-1.pkg
 tload-3.2.8-1.pkg
 tload-3.2.8-2.pkg
 tmux-2.0-0.pkg

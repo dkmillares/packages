@@ -355,6 +355,7 @@ static-pixman-0.34.0-0.pkg
 static-readline-6.3-0.pkg
 static-readline-6.3-1.pkg
 static-sqlite-3.8.10.2-0.pkg
+static-talloc-2.1.7-0.pkg
 static-zlib-1.2.8-0.pkg
 stunnel-5.23-0.pkg
 subversion-1.8.13-0.pkg
@@ -362,6 +363,7 @@ supervisor-3.0b2-0.pkg
 swig-2.0.10-0.pkg
 swig-2.0.9-0.pkg
 talloc-2.1.3-0.pkg
+talloc-2.1.7-0.pkg
 tar-1.27-0.pkg
 tcpflow-0.21-1.pkg
 tcsh-6.18.01-0.pkg

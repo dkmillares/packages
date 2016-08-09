@@ -332,6 +332,7 @@ static-readline-6.3-0.pkg
 static-readline-6.3-1.pkg
 static-sqlite-3.8.10.2-0.pkg
 static-talloc-2.1.7-0.pkg
+static-wxwidgets-3.1.0-0.pkg
 static-zlib-1.2.8-0.pkg
 stunnel-5.23-0.pkg
 subversion-1.8.13-0.pkg
@@ -374,6 +375,7 @@ wget-1.16.3-0.pkg
 wget-1.17.1-0.pkg
 wget-1.18-0.pkg
 wput-0.6.2-0.pkg
+wxwidgets-3.1.0-0.pkg
 xemacs-21.5.33-0.pkg
 xmp-4.0.7-0.pkg
 xz-5.0.7-0.pkg

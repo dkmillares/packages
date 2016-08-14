@@ -46,6 +46,7 @@ coreutils-8.24-0.pkg
 coreutils-8.25-0.pkg
 cscope-15.8a-0.pkg
 cscope-15.8a-1.pkg
+cscope-15.8b-0.pkg
 ctags-5.8-8.pkg
 ctags-5.8-9.pkg
 ctemplate-2.2-2.pkg

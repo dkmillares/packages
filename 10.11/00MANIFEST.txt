@@ -228,6 +228,7 @@ ragel-6.9-0.pkg
 rcs-5.9.4-0.pkg
 rdiff-backup-1.2.8-5.pkg
 readline-6.3-1.pkg
+readline-7.0-0.pkg
 redis-3.0.3-0.pkg
 rsync-3.1.1-0.pkg
 rtorrent-0.9.2-1.pkg
@@ -248,6 +249,7 @@ sox-14.4.1-0.pkg
 sqlite-3.12.2-0.pkg
 squid-3.5.7-0.pkg
 ssldump-0.9b3-5.pkg
+static-readline-7.0-0.pkg
 stunnel-5.23-0.pkg
 subversion-1.8.13-0.pkg
 supervisor-3.0b2-0.pkg

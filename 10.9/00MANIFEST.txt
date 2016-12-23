@@ -124,6 +124,7 @@ glib-2.44.1-0.pkg
 gloox-1.0.3-0.pkg
 gmp-6.0.0a-0.pkg
 gmp-6.1.0-0.pkg
+gmp-6.1.2-0.pkg
 gnuchess-6.2.2-0.pkg
 gnupg-1.4.19-0.pkg
 gnupg-1.4.20-0.pkg
@@ -383,6 +384,7 @@ static-gettext-0.19.8.1-0.pkg
 static-glib-2.44.1-0.pkg
 static-gmp-6.0.0a-0.pkg
 static-gmp-6.1.0-0.pkg
+static-gmp-6.1.2-0.pkg
 static-guile-1.8.8-2.pkg
 static-libev-4.20-0.pkg
 static-libev-4.22-0.pkg

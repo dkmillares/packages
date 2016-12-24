@@ -17,6 +17,7 @@ automake-1.15-0.pkg
 autossh-1.4d-0.pkg
 axel-2.4-0.pkg
 bash-4.3-3.pkg
+bash-4.4-0.pkg
 bash-completion-2.1-0.pkg
 bip-0.8.8-0.pkg
 boost-1.60.0-0.pkg

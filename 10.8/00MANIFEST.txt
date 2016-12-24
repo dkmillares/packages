@@ -23,6 +23,7 @@ bash-4.3-0.pkg
 bash-4.3-1.pkg
 bash-4.3-2.pkg
 bash-4.3-3.pkg
+bash-4.4-0.pkg
 bash-completion-2.1-0.pkg
 bip-0.8.8-0.pkg
 boost-1.57.0-0.pkg
